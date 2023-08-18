@@ -10,3 +10,5 @@ License: What license is it under?
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.2.3
+URL: https://github.com/annieradams/watermelonMonkey
+BugReports: https://github.com/annieradams/watermelonMonkey/issues
